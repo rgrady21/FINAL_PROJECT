@@ -19,6 +19,7 @@ class Sudoku{
     Sudoku(int difficulty);
     Sudoku();
     void fill_values(int n);
+    bool rand_generator(int nums[N]);
     void print();
     void print_board(int type);
     bool solve_game();

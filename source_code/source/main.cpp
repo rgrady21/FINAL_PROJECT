@@ -1,7 +1,11 @@
+/*
+Program Name: Sudoku Final Project
+Creator: Ryan Grady
+Class: CS 172-1
+*/
 #include "Sudoku.h"
 #include <iostream>
 #include <fstream>
-#define UNNASSIGNED 0
 #define N 9
 
 using namespace std;
