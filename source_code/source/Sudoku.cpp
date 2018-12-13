@@ -168,6 +168,7 @@ Pre step: If the board is already solved, return.
     conflicting 1's in the first open space. If it doesnt, put a 1 down and recursively call.
     If it does fail, clear out the digit and start with a different number.
 2. Repeat this process for digis through num = 9 until the board is filled;
+-Referenced GeeksForGeeks article on Sudoku solving using recursion.
  */
 bool Sudoku::solve_game(){
     int row, col; 
