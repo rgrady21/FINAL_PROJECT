@@ -2,6 +2,7 @@
 Program Name: Sudoku Final Project
 Creator: Ryan Grady
 Class: CS 172-1
+Date: 12-13-18
 */
 
 #ifndef SUDOKU_H_
